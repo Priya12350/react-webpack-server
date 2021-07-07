@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+    font-family:  "Times New Roman", Times, serif;
+    margin-top: 50px;
+}
+.App{
+    background-color: rgba(0, 153, 255, 0.582);
+    color: rgb(156, 29, 29);
+    text-align: center;
+    padding: 20px;
+  border-radius: 50px;
+  font-weight: bold;
+}
+.load-more{
+    background-color: white;
+    padding: 10px;
+  border-radius: 50px;
+  color: rgba(26, 24, 23, 0.815);
+  font-size: large;
+  text-shadow: 2px 2px 4px rgb(248, 183, 234);
+}
